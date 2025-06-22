@@ -8,7 +8,7 @@
 🏆 ***Top 5 Albums*** – Identify the most played albums based on listening frequency.<br>
 📊 ***Latest Year vs Previous Year Analysis*** – Compare album consumption between the latest and previous years, including:<br>
 
-*	Y (Latest Year) vs PY (Previous Year) Trends
+*	LY (Latest Year) vs PY (Previous Year) Trends
 *	YoY (Year-over-Year) Growth Analysis
 
 ## ARTISTS
